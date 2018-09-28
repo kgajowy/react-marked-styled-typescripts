@@ -1,5 +1,6 @@
 {
   "name": "react-marked-styled-typescripts",
+  "homepage": "http://kgajowy.github.io/react-marked-styled-typescripts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,5 +25,8 @@
     "@types/react-dom": "^16.0.7",
     "@types/styled-components": "^3.0.1",
     "typescript": "^3.0.3"
+  },
+  "gh-pages-deploy": {
+    "staticpath": "build"
   }
 }
